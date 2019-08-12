@@ -316,8 +316,8 @@ The last step will now be to make sure our PowerApps is available to all the mem
 
 1. Confirm that your application now lists the shipments on its home screen.
 
-1. Open the "File" menu of the PowerApps editor (don't confuse it with the file menu of your browser! ;-)), and click "Publish" 
+1. Open the "File" menu of the PowerApps editor (don't confuse it with the file menu of your browser!), and click "Publish" 
 
 ## 5. Finalizing IoT Central setup
 
-XXX
+TODO (this step shall explain how to setup the MS Flow rule that creates new "Incidents" when "onTampered" event is fired).
