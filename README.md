@@ -73,7 +73,7 @@ In fact, it is now time for you to test this refreshed PowerApp, and to see how 
 
 1. Download PowerApps on your mobile phone.
    * Apple App Store: <https://aka.ms/powerappsios>
-   * Google Play: <https://aka.ms/powerappsandroid)>
+   * Google Play: <https://aka.ms/powerappsandroid>
 
 1. Open PowerApps and use the credentials provided to you by your trainer to sign in.  
 ![PowerApps Mobile - Homepage](assets/powerapps-mobile-homepage.png)
