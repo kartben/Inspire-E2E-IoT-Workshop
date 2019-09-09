@@ -12,7 +12,7 @@ They realize they need to be more precise on the location of the parcels, condit
 
 If you are going through this lab, you are probably attending our [Immersive session](https://myinspire.microsoft.com/sessions/34136301-fa4d-4ada-b369-9f6acaebcbb4) at Microsoft Inspire 2019, in which case you're already set with all the pre-requisites! In fact, if you're interested in learning more about what's behind the scenes, you should [check out the setup instructions](lab-setup) as it will help you understand better the technical concepts behind each aspect of the solution. 
 
-In a nutshell, here are all the things that have already been [prepared](/lab-setup) for you ahead of this lab:
+In a nutshell, here are all the things that have already been [prepared](lab-setup) for you ahead of this lab:
 
 * Azure subscription with an associated Azure Active Directory for your Contoso Art Shipping company ;
 * User account in this Azure Active Directory for you to log into the different services and applications you will be using. The credentials for this user account should have been provided to you at the beginning of the lab ;
