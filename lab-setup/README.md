@@ -77,7 +77,7 @@ Next, you're going to setup the Azure IoT Central application that is going to b
 
 In order to bootstrap the IoT Central application quickly, you will be using an existing application template.
 
-1. Open <https://apps.azureiotcentral.com/create?appTemplate=fd94d78e-3963-4768-94f8-8efbcc5fe5e5> in your browser
+1. Open <https://apps.azureiotcentral.com/create?appTemplate=7533e8f0-af2c-40a3-838d-23321c3d6b09> in your browser
 
 2. In the "Create an application" form, enter the following information:
    * **Choose a payment plan**: *Pay-As-You-Go*.
